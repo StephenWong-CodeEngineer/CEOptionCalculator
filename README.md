@@ -4,7 +4,7 @@ It is also binded with Python using Pybind11 so that it can be imported as a Pyt
 
 [Here](https://youtu.be/YMpomdJtMlk) is a link to a video of an overview of using this calculator.
 
-More vidoes of using specific Asian, Lookback and Barrier options will be added later.
+More videos of using specific Asian, Lookback and Barrier options will be added later.
 
 
 
